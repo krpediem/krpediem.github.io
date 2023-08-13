@@ -1,1 +1,1 @@
-# krpediem.githubpage.io
+# krpediem.github.io
